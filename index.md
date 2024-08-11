@@ -1,5 +1,5 @@
 ---
-title: 我的博客
+title: Michael-Chen-NJU的博客
 description: 欢迎来到我的个人博客
 ---
 
@@ -19,7 +19,6 @@ description: 欢迎来到我的个人博客
 
 ## 联系我
 
-- 邮箱: example@example.com
-- Twitter: [@mytwitter](#)
+- 邮箱: 221250121@nju.edu.cn
 
 感谢你的访问！
