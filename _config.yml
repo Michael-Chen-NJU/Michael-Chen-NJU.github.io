@@ -1,28 +1,19 @@
 title: 我的博客
 description: 欢迎来到我的个人博客
-baseurl: "" # 如果部署在子目录中，请设置此项
-url: "http://你的域名"
+url: "https://michael-chen-nju.github.io/"
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-crayon
 
 # 博客作者信息
 author:
-  name: 你的名字
-  email: example@example.com
+  name: 陈子昂
+  email: 221250121@smail.nju.edu.cn
 
 # 社交链接
 social_links:
-  twitter: https://twitter.com/your_twitter
-  github: https://github.com/your_github
-
-# 其他配置
-permalink: /:categories/:title/
-paginate: 5
+  github: https://github.com/Michael-Chen-NJU
 
 # 插件
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# 自定义变量
-custom_variable: "自定义值"
